@@ -1,5 +1,5 @@
 [build]
-    publish = "exampleSite/public"
+    publish = "public"
 
 [build.environment]
     HUGO_VERSION = "0.100.2"
